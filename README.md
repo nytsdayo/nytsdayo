@@ -3,6 +3,8 @@
 <p align="left">
 </p>
 
+# My Introduction
+
 # NOW LEARNING
 <img src="https://skillicons.dev/icons?i=python,javascript,php,mysql,github" /> <br /><br />
 
