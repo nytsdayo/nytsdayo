@@ -4,7 +4,7 @@
 </p>
 
 # My Introduction
-![nytsdayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![nytsdayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nytsdayo&show_icons=true&theme=dark)
 # NOW LEARNING
 <img src="https://skillicons.dev/icons?i=python,javascript,php,mysql,github" /> <br /><br />
 
