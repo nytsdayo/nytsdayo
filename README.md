@@ -5,7 +5,7 @@
 
 # My Introduction
 ![nytsdayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nytsdayo&show_icons=true&theme=dark)
-[![rnakatan's 42 stats](https://badge42.coday.fr/api/v2/cly3j6fb21155801p4gr31wcw1/stats?cursusId=21&coalitionId=piscine)](https://github.com/Coday-meric/badge42)
+[![rnakatan's 42 stats](https://badge42.coday.fr/api/v2/cly3j6fb21155801p4gr31wcw1/stats?cursusId=21&coalitionId=undefined)](https://github.com/Coday-meric/badge42)(https://github.com/Coday-meric/badge42)
 # NOW LEARNING
 <img src="https://skillicons.dev/icons?i=python,javascript,php,mysql,github" /> <br /><br />
 
